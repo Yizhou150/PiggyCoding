@@ -1,2 +1,2 @@
-# PiggyCoding
-Happy Algorithm and Data Structure!
+# Piggy Coding
+Happy algorithm and data structure.
